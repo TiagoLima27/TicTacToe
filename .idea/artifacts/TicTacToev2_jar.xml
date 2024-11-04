@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="TicTacToev2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TicTacToev2_jar</output-path>
+    <root id="archive" name="TicTacToev2.jar">
+      <element id="module-output" name="TicTacToev2" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/simplegraphics.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
